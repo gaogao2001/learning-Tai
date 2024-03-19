@@ -105,7 +105,7 @@
             @if($class['name'] == $className)E
                     <p>Class: {{ $class['name'] }}</p>
                     <p>Teacher: {{ $class['teacher'] }}</p>
-                    <p>Room: {{ $class['room'] }}</p>
+                    <p>Room: {{ $class['room'] }}</p> ass
                     <p>Time: {{ $class['time'] }}</p>
                     <p>Topics:</p>
                     <ul>
