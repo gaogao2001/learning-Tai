@@ -1,0 +1,125 @@
+
+
+.hang1{
+    justify-content: space-evenly;
+    text-align: center;
+    display: flex;
+
+}
+
+.thanh22{
+    display: flex;
+    margin: 0 auto;
+    padding: 0px;
+    border: 20px;
+    justify-content: space-evenly;
+}
+
+.section1{
+    justify-content: space-evenly;
+    display: flex;
+    margin: 0px auto;
+    padding: 0px 15px;
+    max-width: 1130px;
+    position: relative;
+    width: 100%;
+}
+b{
+    font-size: 30px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.phan1{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-right: 20px;
+}
+
+.phan2{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
+.phan3{
+    width: 26%;
+    height: auto;
+}
+.noidung{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-right: 20px;
+}
+.noidung1{
+    display: flex;
+    justify-content: space-evenly;
+    width: 38%;
+}
+
+
+
+
+.meo1{
+    display: inline-flex;
+    justify-content: space-evenly;
+
+
+
+
+}
+.phanmot{
+    float: right;
+    list-style: none;
+
+}
+.date{
+    float: right;
+    font-size: 16px;
+}
+.section22{
+    display: flex;
+    justify-content: space-evenly;
+    width: 150%;
+}
+.noidungbai{
+    width: 30%;
+    height: auto;
+    justify-content: space-evenly;
+
+
+}
+.noidungbaiviet{
+    width: 100%;
+    height: 0px;
+    line-height: 160%;
+    padding: 0px;
+    color: #1a202c;
+
+
+
+}
+.top-right{
+    display: flex;
+    width: 100%;
+    height: auto;
+
+
+
+}
+.top-right1{
+    display: flex;
+    width: 30%;
+}
+.top-right2{
+    display: flex;
+    justify-content: space-evenly;
+}
